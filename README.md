@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DIO
-[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/felipeandr2004_11275)
+[![DIO](https://img.shields.io/badge/DIO-000080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/felipeandr2004_11275)
 
 ## Status
 
