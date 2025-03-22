@@ -1,4 +1,4 @@
-# Victor Hugo🚀🚀🚀🚀🚀🚀🚀
+# Felipe Andrade
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeandradeoliveira/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipeandr2004@outlook.com)
@@ -17,9 +17,9 @@
 
 ## Status
 
-![Felipe Status GitHub](https://github-readme-stats.vercel.app/api?username=vitaochorao&show_icons=true&theme=tokyonight)
+![Felipe Status GitHub](https://github-readme-stats.vercel.app/api?username=felpsandrade&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaochorao&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsandrade&layout=compact&theme=dark)
   
 
 <picture align="center">
